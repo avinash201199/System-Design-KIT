@@ -984,18 +984,20 @@ This is a curated directory of the best system design resources for every stage 
 
 ---
 
+
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
-1. **Add a Resource** — Found a useful article, case study, or tool? Submit a pull request!
+1. **Add a Resource** — Found a useful library, course, or article? Submit a pull request!
 2. **Fix Broken Links** — Help keep the list current
-3. **Add Case Studies** — Real-world system breakdowns are gold
+3. **Improve Descriptions** — Make resources easier to understand
 4. **Suggest Categories** — Help us organize better
 
 ### Contribution Guidelines
 
-- Ensure the resource is relevant to system design or distributed systems
+- Ensure the resource is relevant to Python development
 - Provide a working link
 - Add a brief description if needed
 - Place it in the appropriate category
@@ -1003,12 +1005,33 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
+## Sponsorship
+
+If you find this repository valuable and want to support its growth:
+
+- Sponsor this project to help maintain and expand the collection
+- Partner with us to feature high quality tools for founders
+- Reach out for collaborations and ecosystem partnerships
+
+For sponsorship or partnership inquiries, connect via X:  
+[Avinash Singh](https://x.com/AvinashSingh_20)
+
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+##  Acknowledgments
+
+This repository is maintained by [Avinash Singh](https://x.com/AvinashSingh_20) Special thanks to all contributors who have helped curate and maintain this collection.
+
+## 💬 Community & Support
+
+- Star this repo to show your support
+- Share it with fellow founders and entrepreneurs
+- Follow for updates as we add new resources
+- Join the discussion in [Issues](https://github.com/avinash201199/System-Design-KIT/issues)
 
 ---
 
-**Made with ❤️ for every engineer who wants to think in systems**
+**Made with ❤️ by [Avinash Singh](https://x.com/AvinashSingh_20)**
 
-*Inspired by [founders-kit](https://github.com/avinash201199/founders-kit)*
